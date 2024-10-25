@@ -1,0 +1,8 @@
+data
+output
+runlogs/*
+test.py
+shapes/shp_china_2017
+shapes/shp_china_2022
+shapes/stations
+shapes/city_jiangsu*

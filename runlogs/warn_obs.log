@@ -1,2 +1,72 @@
 START TIME: 2024-10-25 21:05:48
 ERROR 1: PROJ: proj_create_from_database: Open of /home/gpusr/miniconda3/envs/dky_platform/share/proj failed
+执行时间: 2024-10-25 20:00:00
+获取文件中 LON, LAT 信息
+Add -> /home/gpusr/user/wangbj/dkyPlatform/data/5km/5KM_NC_TMP/2024/202410/20241025/5KM_TMP_2024102520.nc
+Add -> /home/gpusr/user/wangbj/dkyPlatform/data/5km/5KM_NC_TMP/2024/202410/20241025/5KM_TMP_2024102521.nc
+[SUCCESS] 获取文件中 LON, LAT 信息成功
+Loading 'tp' ...
+获取 2024-10-25T20 至 2024-10-25T20 的 tp 文件
+Add -> /home/gpusr/user/wangbj/dkyPlatform/data/5km/5KM_NC_PRE/2024/202410/20241025/5KM_PRE_2024102520.nc
+———————— ————————
+[SUCCESS] 成功获取所需的所有文件! 文件组:(1/1) 文件数:(1/1)
+堆叠数据 ...
+合成数据 ...
+———————— Ndarray Infos ————————
+Shape: (1261, 721)
+Min: 0.0
+Max: 2799.719970703125
+Mean: 0.05555981397628784
+Std: 4.638950824737549
+Converting to TIFF ...
+[SUCCESS] TIFF 转换成功 ...
+Loading 't2m' ...
+获取 2024-10-25T20 至 2024-10-25T20 的 t2m 文件
+Add -> /home/gpusr/user/wangbj/dkyPlatform/data/5km/5KM_NC_TMP/2024/202410/20241025/5KM_TMP_2024102520.nc
+———————— ————————
+[SUCCESS] 成功获取所需的所有文件! 文件组:(1/1) 文件数:(1/1)
+堆叠数据 ...
+合成数据 ...
+———————— Ndarray Infos ————————
+Shape: (1260, 720)
+Min: -37.26337814331055
+Max: 29.914897918701172
+Mean: 2.0520122051239014
+Std: 14.92300033569336
+Converting to TIFF ...
+[SUCCESS] TIFF 转换成功 ...
+Loading 't2m' ...
+获取 2024-10-25T20 至 2024-10-25T20 的 t2m 文件
+Add -> /home/gpusr/user/wangbj/dkyPlatform/data/5km/5KM_NC_TMP/2024/202410/20241025/5KM_TMP_2024102520.nc
+———————— ————————
+[SUCCESS] 成功获取所需的所有文件! 文件组:(1/1) 文件数:(1/1)
+堆叠数据 ...
+合成数据 ...
+———————— Ndarray Infos ————————
+Shape: (1260, 720)
+Min: -37.26337814331055
+Max: 29.914897918701172
+Mean: 2.0520122051239014
+Std: 14.92300033569336
+Converting to TIFF ...
+[SUCCESS] TIFF 转换成功 ...
+Loading 'ws10' ...
+获取 2024-10-25T20 至 2024-10-25T20 的 ws10 文件
+Add -> /home/gpusr/user/wangbj/dkyPlatform/data/5km/5KM_NC_WIN/2024/202410/20241025/5KM_WIN_2024102520.nc
+———————— ————————
+[SUCCESS] 成功获取所需的所有文件! 文件组:(1/1) 文件数:(1/1)
+堆叠数据 ...
+合成数据 ...
+———————— Ndarray Infos ————————
+Shape: (1260, 720)
+Min: 0.008021906949579716
+Max: 16.332162857055664
+Mean: 2.679295539855957
+Std: 2.307828187942505
+Converting to TIFF ...
+[SUCCESS] TIFF 转换成功 ...
+时间:2024102520-2024102520 	ShapeFile:./shapes/remake/prov_2022.shp
+时间:2024102520-2024102520 	ShapeFile:./shapes/remake/city_2022.shp
+时间:2024102520-2024102520 	ShapeFile:/home/gpusr/user/wangbj/Datasets/shapes/remake/station_met.shp
+入库中 ... 
+FINISHED! 程序执行完毕
