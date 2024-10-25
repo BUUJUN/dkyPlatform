@@ -1,7 +1,0 @@
-START TIME: 2024-10-25 21:05:48
-ERROR 1: PROJ: proj_create_from_database: Open of /home/gpusr/miniconda3/envs/dky_platform/share/proj failed
-执行时间: 2024-10-25 20:30:00
-File /home/gpusr/user/wangbj/dkyPlatform/data/DOR_RDCP_LATLON_QC_NC/2024/202410/20241025/DOR_RDCP_LATLON_QREF_202410252030.nc not found.
-入库 ...
-[]
-FINISHED! 程序执行完毕
