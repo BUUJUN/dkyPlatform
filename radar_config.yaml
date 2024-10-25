@@ -1,0 +1,11 @@
+# 文件中的绘图变量名
+variables:
+  - 'RADAR'
+
+
+# 雷达实况网格数据的输入路径
+# input_directory: "/mnt/wxdata/GX_data/DOR_RDCP_LATLON_QC_NC"
+input_directory: "/home/gpusr/user/wangbj/dkyPlatform/data/DOR_RDCP_LATLON_QC_NC"
+
+# 对应绘图图片的输出路径
+output_directory: "/home/gpusr/user/wangbj/dkyPlatform/output/pics"

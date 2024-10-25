@@ -1,0 +1,12 @@
+# 文件中的绘图变量名
+variables:
+  - 'T2max'
+  - 'T2min'
+
+
+# 3KM数值模式网格数据的输入路径
+# input_directory: "/mnt/wxdata/GX_data/XNYZX-BJ/GJD"
+input_directory: "/home/gpusr/user/wangbj/dkyPlatform/data/GJD"
+
+# 对应预警图片的输出路径
+output_directory: "/home/gpusr/user/wangbj/dkyPlatform/output/pics"

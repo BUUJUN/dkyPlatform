@@ -1,0 +1,45 @@
+START TIME: 2024-10-25 21:05:48
+ERROR 1: PROJ: proj_create_from_database: Open of /home/gpusr/miniconda3/envs/dky_platform/share/proj failed
+执行时间: 2024-10-25 20:00:00
+(1/9) TEM read_ncfile --> finished!
+(2/9) plot_base_map --> finished!
+(3/9) TEM plot_contourf --> finished!
+(4/9) add_province_line_name --> finished!
+(5/9) plot_nanhai --> finished!
+(6/9) TEM add_title --> finished!
+(7/9) plot_tmp_legend --> finished!
+(8/9) Plot saved: /home/gpusr/user/wangbj/dkyPlatform/output/pics/pic_module/met_obs/2024/202410/20241025/2024102520/TMP_2024102520.png
+(9/9) Image info saved
+-----------------------------------
+(1/9) PRE read_ncfile --> finished!
+(2/9) plot_base_map --> finished!
+(3/9) PRE plot_contourf --> finished!
+(4/9) add_province_line_name --> finished!
+(5/9) plot_nanhai --> finished!
+(6/9) PRE add_title --> finished!
+(7/9) plot_pre_legend --> finished!
+(8/9) Plot saved: /home/gpusr/user/wangbj/dkyPlatform/output/pics/pic_module/met_obs/2024/202410/20241025/2024102520/PRE_2024102520.png
+(9/9) Image info saved
+-----------------------------------
+(1/9) gust read_ncfile --> finished!
+(2/9) plot_base_map --> finished!
+(3/9) gust plot_contourf --> finished!
+(4/9) add_province_line_name --> finished!
+(5/9) plot_nanhai --> finished!
+(6/9) gust add_title --> finished!
+(7/9) plot_gust_legend --> finished!
+(8/9) Plot saved: /home/gpusr/user/wangbj/dkyPlatform/output/pics/pic_module/met_obs/2024/202410/20241025/2024102520/GUST_2024102520.png
+(9/9) Image info saved
+-----------------------------------
+(1/9) vis read_ncfile --> finished!
+(2/9) plot_base_map --> finished!
+(3/9) vis plot_contourf --> finished!
+(4/9) add_province_line_name --> finished!
+(5/9) plot_nanhai --> finished!
+(6/9) vis add_title --> finished!
+(7/9) plot_vis_legend --> finished!
+(8/9) Plot saved: /home/gpusr/user/wangbj/dkyPlatform/output/pics/pic_module/met_obs/2024/202410/20241025/2024102520/VIS_2024102520.png
+(9/9) Image info saved
+-----------------------------------
+入库 ...
+FINISHED! 程序执行完毕

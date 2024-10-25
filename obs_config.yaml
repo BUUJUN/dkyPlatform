@@ -1,0 +1,17 @@
+# 文件中的绘图变量名
+variables:
+  - 'TMP'
+  - 'PRE'
+  - 'GUST'
+  - 'VIS'
+
+# 1KM实况网格数据的输入路径
+# input_directory_1km: "/mnt/wxdata/GX_data"
+input_directory_1km: "/home/gpusr/user/wangbj/dkyPlatform/data/1km"
+
+# 5KM实况网格数据的输入路径
+# input_directory_5km: "/mnt/wxdata/GX_data"
+input_directory_5km: "/home/gpusr/user/wangbj/dkyPlatform/data/5km"
+
+# 对应绘图图片的输出父路径,子路径在脚本中改
+output_directory: "/home/gpusr/user/wangbj/dkyPlatform/output/pics"

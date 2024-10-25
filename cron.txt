@@ -1,0 +1,2 @@
+# 定时作业
+35 * * * * bash /home/gpusr/user/wangbj/dkyPlatform/start.sh >> /home/gpusr/user/wangbj/dkyPlatform/runlogs/start.log 2>&1
